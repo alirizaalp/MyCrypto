@@ -1,6 +1,6 @@
 # MyCrypto
 
-##PROJE AMACIM;**YENİ VE YENİLİKÇİ BİR WEB SİTESİ TASARLAYIP BU SİTEDE KRİPTO COİN VE KRİPTO TOKENLERİ KULLANDIM.
+##**PROJE AMACIM****YENİ VE YENİLİKÇİ BİR WEB SİTESİ TASARLAYIP BU SİTEDE KRİPTO COİN VE KRİPTO TOKENLERİ KULLANDIM.
 HTML CSS VE JS İLE YAPTIM.
 
 ##**Fizyoterapist öğrencisi,kendisini yazılım konusunda geliştirmeye hevesli kişi.**
